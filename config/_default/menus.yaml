@@ -1,0 +1,38 @@
+leftnav:
+- identifier: 4eae3d44-f1ca-dad3-ea80-5eaae18f141d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0e850efb-f3bb-771d-a847-27c0dd88a84b
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: acf918f1-d791-9387-0a59-9623cefee4bc
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 564d0ab5-d84f-37d8-698f-1c37cf536eed
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 561b78e6-8966-b179-8155-054920743a0e
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 50
+- identifier: 229b83a3-f496-a03d-b403-dda779c8fc2e
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
+- identifier: 2894571f-a4c2-1e2f-7aca-aabe6b749145
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 70
+- identifier: fd3a5df9-3a9d-a26e-6e54-860d5ad8146c
+  name: Student Work
+  pageRef: /pages/projects/student-work
+  parent: 2894571f-a4c2-1e2f-7aca-aabe6b749145
+  weight: 80
+- identifier: ace9836b-ee73-956a-cc10-e8ae881f9a55
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 90
